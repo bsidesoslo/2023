@@ -1,0 +1,37 @@
+<!-- Team Section -->
+    <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">The BSides Oslo team</h2>
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.data.team.members %}
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <!-- <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt=""> -->
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}</p>
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li>
+                                <a href="{{ network.url }}">
+                                    <i class="bi-{{ network.title }}"></i>
+                                </a>
+                            </li>
+                            {% endfor %}
+
+                        </ul>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+			<p class="large text-muted">The BSidesOslo team are members of the local infosec community who felt the need for an accessible, inclusive event that is focused on learning and sharing.</p>
+			<p class="large text-muted">This is what BSides and their framework is all about. While individual BSides events have a focus on serving and representing their local communities, adopting this framework also ties us to an international network of diverse, independent events that seek to create opportunities to advance the infosec conversation beyond the mainstream.</p>
+                </div>
+            </div>
+        </div>
+    </section>

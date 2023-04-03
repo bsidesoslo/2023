@@ -1,0 +1,24 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+	      <span class="copyright"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> {{ site.title }} </span>
+      </div>
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          {% for network in site.social %}
+          <li><a href="{{ network.url }}"><i class="bi-{{ network.title }}"></i></a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li><a href="#legal" data-toggle="modal">Licenses and attribution</a></li>
+          <li><a href="{{ site.baseurl}}/code-of-conduct">Code of conduct</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,33 @@
+members:
+- name: Phanida Meesin
+  position: Board Member
+  social: 
+  - title: envelope
+    url: mailto:info@bsidesoslo.no
+- name: Ryan Mattinson
+  position: Board Member
+  social: 
+  - title: envelope
+    url: mailto:info@bsidesoslo.no
+- name: Erlend Oftedal
+  position: Board Member
+  social:
+  - title: twitter
+    url: https://twitter.com/webtonull
+- name: Christer Vaskinn
+  position: Board Member
+  social:
+  - title: twitter
+    url: https://twitter.com/chrizmo
+- name: Vetle Hjelle
+  position: Board Member
+  social:
+  - title: twitter
+    url: https://twitter.com/bordplate
+- name: Eivind Utnes
+  position: Speaker Manager
+  social:
+  - title: twitter
+    url: https://twitter.com/0xprime
+  - title: envelope
+    url: mailto:cfp@bsidesoslo.no

@@ -1,0 +1,13 @@
+<section id="splash">
+    <div id="splash" class="row text-center">
+        <div class="col-xs-12 text-center">
+            <img src="img/BSides_Oslo_Splash.png" alt="BSides Oslo 2023"/>
+            <p class="lead-in">September 21, 2023 at Vulkan Arena</p>
+            <ul class="list-inline social-buttons">
+                {% for network in site.social %}
+                <li><a href="{{ network.url }}"><i class="bi-{{ network.title }}"></i></a>
+                </li>
+                {% endfor %}
+        </div>
+    </div>
+</section>

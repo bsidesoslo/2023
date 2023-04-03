@@ -1,2 +1,7 @@
+_site
+.sass-cache
+.jekyll-metadata
 **.swp
 **.swo
+/.jekyll-cache/**
+**.DS_Store

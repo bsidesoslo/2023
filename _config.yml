@@ -1,0 +1,52 @@
+# Configuration for BSides Oslo. This
+# file contains most of the variables for the information on the website.
+
+title: BSides Oslo 2023
+
+description: "BSides Oslo is an inclusive community driven information security event."
+
+baseurl: ""
+
+twitter_username: OsloBSides
+youtube_channel: https://youtube.com/bsidesoslo
+
+emails:
+  info: info@bsidesoslo.no
+  sponsors: sponsors@bsidesoslo.no
+  cfp: cfp@bsidesoslo.no
+
+social:
+- title: mastodon
+  url: https://infosec.exchange/@bsidesoslo
+- title: twitter
+  url: https://twitter.com/OsloBSides
+- title: youtube
+  url: https://youtube.com/bsidesoslo
+- title: envelope
+  url: mailto:info@bsidesoslo.no
+
+# Build settings
+
+exclude: 
+- .gitignore
+- README.md
+- LICENSE
+- Dockerfile
+- CNAME
+- CODE_OF_CONDUCT.md
+  
+
+menu:
+- title: About
+  url: "/#about"
+- title: Code of Conduct
+  url: "/code-of-conduct"
+
+site_features:
+  cfp: false
+  speakers: false
+
+
+collections:
+  talks:
+    output: true
