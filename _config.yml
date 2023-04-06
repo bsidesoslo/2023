@@ -4,11 +4,18 @@
 title: BSides Oslo 2023
 
 description: "BSides Oslo is an inclusive community driven information security event."
+event:
+  date: "September 21, 2023"
+  venue: "Vulkan Arena"
 
 baseurl: ""
 
 twitter_username: OsloBSides
 youtube_channel: https://youtube.com/bsidesoslo
+
+cfp:
+  form: https://docs.google.com/forms/d/1JVU1rPNBI9e-5hyT_q87jkhS7SrVx_vQc9Lll7aar9Y
+  deadline: "Jun 30th, 2023 23:59 CET"
 
 emails:
   info: info@bsidesoslo.no
@@ -37,13 +44,16 @@ exclude:
   
 
 menu:
+- title: CFP
+  url: "/#cfp"
 - title: About
   url: "/#about"
 - title: Code of Conduct
   url: "/code-of-conduct"
 
-site_features:
-  cfp: false
+# Feature toggle specific sections
+sections:
+  cfp: true
   speakers: false
 
 

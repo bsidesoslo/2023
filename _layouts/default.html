@@ -5,6 +5,9 @@
     <body id="page-top" class="index">
     {% include splash.html %}
     {% include navigation.html %}
+    {% if site.sections.cfp == true %}
+    {% include cfp.html %}
+    {% endif %}
     {% include sponsors.html %}
     {% include about.html %}
     {% include team.html %}
