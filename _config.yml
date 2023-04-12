@@ -25,10 +25,13 @@ emails:
 social:
 - title: mastodon
   url: https://infosec.exchange/@bsidesoslo
+  social: true
 - title: twitter
   url: https://twitter.com/OsloBSides
+  social: true
 - title: youtube
   url: https://youtube.com/bsidesoslo
+  social: true
 - title: envelope
   url: mailto:info@bsidesoslo.no
 

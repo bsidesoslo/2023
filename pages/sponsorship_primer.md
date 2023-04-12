@@ -63,7 +63,7 @@ Thank you for your support!
 
 The BSides Oslo Team
 
-Vetle Økland Hjelle, Ryan Mattinson, Phanida Meesin, Erlend Oftedal, Christer Vaskinn
+{{ site.data.team.members | map: "name" | join: ", " }}
 
 [https://bsidesoslo.no/](https://bsidesoslo.no/)
 {% assign socials = site.social | where: "social", true %}
