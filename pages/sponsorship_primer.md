@@ -60,8 +60,7 @@ We are excited to offer the chance to sponsor this unique event and support a gr
 
 Thank you for your support!
 
-
-The BSides Oslo Team
+-The BSides Oslo Team
 
 {{ site.data.team.members | map: "name" | join: ", " }}
 
