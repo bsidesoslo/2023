@@ -9,7 +9,7 @@ updated: 12.04.2023
 Security BSides is a global network of independent information security conferences and events that are connected through their common goal of promoting a more accessible, community-driven and inclusive approach to information security and privacy education. The first Security BSides event was held in Las Vegas in 2009 as an alternative to more commercial conferences. Since 2009, Security BSides has grown to provide a global support network and tools that have allowed organizers around the world to hold hundreds of accessible, community-driven, inclusive information security conferences in more than 100 cities. BSides Oslo event is organized by a Norwegian non-profit (Digital Resilience Group org nr. 921584237) created for this purpose and with the support and involvement of [www.securitybsides.org](http://www.securitybsides.org/).
 
 
-We held the [first BSides event in Oslo](https://2019.bsidesoslo.no/) on May 23rd, 2019 at MESH. The event was sold out with more than 120 participants from the local and international information security community who were eager to share and willing to take a chance on an unproven event. We received extremely possible feedback from attendees and sponsors alike and have taken the support of the community to heart as we plan this year’s event. [BSides Oslo 2022](https://bsidesoslo.no/) will maintain the technical quality (see talks from previous events on [YouTube](https://youtube.com/bsidesoslo)) that is so important to our community by sticking with the one-day, one-track format, but moving the event to an even larger venue where we will have capacity for 250 participants and space for additional representation from the community.
+We held the [first BSides event in Oslo](https://2019.bsidesoslo.no/) on May 23rd, 2019 at MESH. The event was sold out with more than 120 participants from the local and international information security community who were eager to share and willing to take a chance on an unproven event. We received extremely possible feedback from attendees and sponsors alike and have taken the support of the community to heart as we went on to hold a digital event and our largest physical event to date in 2022 with more than 200 in attendance at Vulkan Arena. [BSides Oslo 2023](https://bsidesoslo.no/) will maintain the technical quality (see talks from previous events on [YouTube](https://youtube.com/bsidesoslo)) that is so important to our community by sticking with the one-day, one-track format, but moving the event to an even larger venue where we will have capacity for 250 participants and space for additional representation from the community.
 
 
 In keeping with the BSides ethos of non-profit, accessible and inclusive events, we want our ticket prices to be much lower than other commercial and non-profit security events while still providing a high-quality event. To make this happen, we need the financial support and participation of organizations that wish to promote and be associated with accessible, quality information security education and innovation in Norway. Overall Benefits of sponsorship, along with specific details and pricing for gold, standard and community sponsorship packages are listed below.
@@ -26,7 +26,7 @@ Being part of the [media](http://www.securitybsides.com/Media) conversation: As 
 **Brand recognition and awareness**: Depending on the level of sponsorship, you may receive brand placement with some or all of the following: t-shirts, digital media, print media, conference job board (on-screen during breaks) and stand-up banner. This is your chance to associate your brand with the future of security and privacy and put your org on the radar for top talent across a range of information security fields and experience levels.
 
 **GOLD SPONSORSHIP PACKAGE (limited to 4)**
- * 30.000 NOK (plus VAT)
+ * 35.000 NOK (plus VAT)
  * Recognition as "Gold Sponsor" Title
  * 4 Tickets
  * Premium Recognition on Website and Marketing Materials
@@ -38,7 +38,7 @@ Being part of the [media](http://www.securitybsides.com/Media) conversation: As 
 
 **STANDARD SPONSORSHIP PACKAGE (limited to 6)**
 
- * 15.000 NOK (plus VAT)
+ * 17.000 NOK (plus VAT)
  * 2 Tickets
  * Recognition on Website and Marketing Materials
  * Placement on Conference T-Shirt
