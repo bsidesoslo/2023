@@ -5,3 +5,17 @@ gold:
 - name: SpareBank 1 Utvikling
   logo: SpareBank1.png
   url: https://sparebank1.dev/
+standard:
+- name: Transcendent Group
+  logo: TranscendentGroupLogo.png
+  url: https://transcendentgroup.com/
+community: 
+- name: Orange Cyberdefense
+  logo: OrangeCyberdefense.png
+  url: https://orangecyberdefense.com/no/
+- name: Atea
+  logo: atea.png
+  url: http://www.atea.no
+- name: PwC
+  logo: pwc.png
+  url: https://www.pwc.no/
