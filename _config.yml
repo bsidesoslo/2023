@@ -49,6 +49,8 @@ exclude:
 menu:
 - title: CFP
   url: "/#cfp"
+- title: Tickets
+  url: "https://www.deltager.no/event/bsidesoslo2023"
 - title: About
   url: "/#about"
 - title: Code of Conduct
