@@ -9,6 +9,9 @@ standard:
 - name: Transcendent Group
   logo: TranscendentGroupLogo.png
   url: https://transcendentgroup.com/
+  - name: Kovert
+  logo: kovert.png
+  url: https://kovert.no
 community: 
 - name: O3 Cyber
   logo: O3C.png
