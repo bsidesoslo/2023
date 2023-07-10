@@ -5,6 +5,12 @@ gold:
 - name: SpareBank 1 Utvikling
   logo: SpareBank1.png
   url: https://sparebank1.dev/
+- name: reMarkable
+  logo: reMarkable.png
+  url: https://remarkable.com
+- name: Defendable
+  logo: Defendable.png
+  url: https://defendable.no
 standard:
 - name: Transcendent Group
   logo: TranscendentGroupLogo.png
