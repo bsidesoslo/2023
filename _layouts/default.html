@@ -5,6 +5,9 @@
     <body id="page-top" class="index">
     {% include splash.html %}
     {% include navigation.html %}
+    {% if site.sections.speakers == true %}
+    {% include talks.html %}
+    {% endif %}
     {% if site.sections.cfp == true %}
     {% include cfp.html %}
     {% endif %}

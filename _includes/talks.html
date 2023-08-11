@@ -1,0 +1,50 @@
+<!-- Speakerso Grid Section -->
+    <section id="speakers">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <h2 class="section-heading">Speakers</h2>
+		    {% if site.talks == false %}
+                    <h3 class="section-subheading text-muted">We haven't started announcing speakers yet, stay tuned.</h3>
+		    {%- endif -%}
+                </div>
+            </div>
+        {%- assign keynote_speaker = site.talks | where: "keynote", true | first -%}
+        
+        {%- if keynote_speaker -%}
+            <div id="keynote-speaker">
+                <div class="row justify-content-md-center">
+                    <div class="col-sm-3 col-md-4"></div>
+                        <div class="col-sm-6 col-md-4 speaker-item">
+                            <a href="{{ keynote_speaker.url }}" class="speaker-link">
+                                <div class="image" style="background-image: url({{ site.baseurl }}/img/speakers/{{ keynote_speaker.speakers[0].image }});" alt="{{ keynote_speaker.speakers[0].name }}">
+                                    <div class="keynote-overlay"><b>Keynote</b></div>
+                                </div>
+                                <div class="speaker-caption">
+                                    <h4>{{ keynote_speaker.speakers[0].name }}</h4>
+                                    <p class="text-muted">{{ keynote_speaker.title }}</p>
+                                </div>
+                            </a>
+                        </div>
+                    
+                </div>
+            </div>
+        {%- endif -%}
+            <div class="row">
+	    {%- assign sorted_talks = site.talks | where: "keynote", false | sort: "scheduled" -%}
+            {%- for talk in sorted_talks -%}
+                {%- for speaker in talk.speakers -%}
+                <div class="col-sm-6 col-md-4 speaker-item">
+                    <a href="{{ talk.url }}" class="speaker-link">
+                    <div class="image" style="background-image: url({{ site.baseurl }}/img/speakers/{{ speaker.image }});" alt="{{ speaker.name }}"></div>
+                    <div class="speaker-caption">
+                            <h4>{{ speaker.name }}</h4>
+                            <p class="text-muted">{{ talk.title }}</p>
+                    </div>
+                    </a>
+                    </div>
+                {%- endfor -%}
+            {%- endfor -%}
+            </div>
+        </div>
+    </section>

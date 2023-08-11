@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    {% include head.html %}
+    {% include navigation.html %}
+    <div class="container page-content">
+      <div class="row">
+        <div class="col-md-12 text-left">
+          <h1 class="section-heading">{{ page.title }}</h1>
+          <div id="talk-information">
+            <p>
+            <ul>
+	      {%if page.length != null %}
+              <li><b>Length:</b> {{ page.length }} minutes.</li>
+	      {% endif %}
+              {%if page.scheduled != null %}<li><b>Scheduled: </b>{{ page.scheduled }} (UTC+2)</li>{% endif %}
+	      {% if page.video != null %}<li><b>Recording: </b><a href="{{ page.video }}">{{ page.video }}</a></li>{% endif %}
+            </p>
+          </div>
+          {{ content }}
+        </div>
+      </div>
+      {% for speaker in page.speakers %}
+      <div class="row speaker-bio">
+	      <!--        <div class="col-md-4 overflow-hidden speaker-image" style="background-image: url({{site.baseurl}}/img/speakers/{{speaker.image}});">-->
+      <div class="col-sm-4 overflow-hidden"> 
+	<img class="speaker-image" src="{{site.baseurl}}/img/speakers/{{speaker.image}}" alt="{{speaker.name}}"/>
+
+
+        </div>
+        <div class="col-sm-8">
+          <p class="speaker-name">{{ speaker.name }}</p>
+          <p>{{ speaker.bio | markdownify }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+  </body>
+</html>

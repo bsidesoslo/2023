@@ -411,7 +411,7 @@ section h3.section-subheading {
 
 @media(max-width:768px) {
     #speakers .speaker-item .image, #keynote-speaker .image {
-        height: 50vh;
+        height: 40vh;
         background-position: center top;
     }
 }
@@ -426,7 +426,7 @@ section h3.section-subheading {
     position: absolute;
     bottom: 0;
     color: #fff;
-    background: rgba(135,27,166, .6);
+    background: rgba(52,166,107, .6);
     margin: 0;
     padding: 0;
     font-family: {{ site.data.template.font.primary }};
@@ -435,7 +435,7 @@ section h3.section-subheading {
 
 #keynote-speaker .image .keynote-overlay b {
     position: relative;
-    top: 25%;
+    top: 20%;
     margin-left: 2%;
 }
 
@@ -455,7 +455,7 @@ section h3.section-subheading {
 
 .speaker-caption {
     margin: 0 0;
-    min-height: 100px;
+    min-height: 7.5em;
     width: 100%; 
     overflow:
 }

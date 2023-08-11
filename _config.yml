@@ -49,6 +49,8 @@ exclude:
 menu:
 - title: Tickets
   url: "https://www.deltager.no/event/bsidesoslo2023"
+- title: Speakers
+  url: "/#speakers"
 - title: About
   url: "/#about"
 - title: Code of Conduct
@@ -57,7 +59,7 @@ menu:
 # Feature toggle specific sections
 sections:
   cfp: false
-  speakers: false
+  speakers: true
 
 
 collections:
