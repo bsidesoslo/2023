@@ -5,12 +5,12 @@ length: 45
 card: Securityathighspeed.png
 keynote: false
 speakers:
-- name: Nora Tomas
+- name: Nora Tomas & Kenneth Wang Pedersen
   image: Nora_og_Kenneth.png
-  bio: Nora Tomas - Nora is a developer at Vipps MobilePay. She is engaged in the security community by taking part in organising the Security Festival, and speaking at various events. She is especially interested in how to develop secure authentication systems, and loves breaking down complicated topics in a simple way.
-- name: Kenneth Wang Pedersen
-  image: Nora_og_Kenneth.png
-  bio: Kenneth is an Engineering Manager and developer at Vipps MobilePay. He has over 20 years of experience in software development. The last years Kenneth has focused on building authentication systems. He has played a key role in building the main login system to the Vipps app, ensuring that millions of users can log in quickly and safely.
+  bio: | 
+    Nora is a developer at Vipps MobilePay. She is engaged in the security community by taking part in organising the Security Festival, and speaking at various events. She is especially interested in how to develop secure authentication systems, and loves breaking down complicated topics in a simple way.
+    
+    Kenneth is an Engineering Manager and developer at Vipps MobilePay. He has over 20 years of experience in software development. The last years Kenneth has focused on building authentication systems. He has played a key role in building the main login system to the Vipps app, ensuring that millions of users can log in quickly and safely.
 ---
 From an outside perspective, login systems can seem very simple. In the Vipps app, for example, you just use biometrics (or a PIN code), and you're in with a blink of an eye! How much work goes into creating such a system? What would happens if someone stole your Vipps PIN code? Why doesn't Vipps simply have a "log in with Facebook" button?
 
