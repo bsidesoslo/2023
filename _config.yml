@@ -51,6 +51,8 @@ menu:
   url: "https://www.deltager.no/event/bsidesoslo2023"
 - title: Speakers
   url: "/#speakers"
+- title: CTF
+  url: "/#ctf"
 - title: About
   url: "/#about"
 - title: Code of Conduct
