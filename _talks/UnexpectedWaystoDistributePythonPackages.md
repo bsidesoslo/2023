@@ -1,6 +1,6 @@
 ---
 layout: talks
-title: TBA Supply Chain (Unexpected ways to distribute Python packages)
+title: Unexpected ways to distribute Python packages
 length: 20
 card: TBASupplyChain.png
 keynote: false
