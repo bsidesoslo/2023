@@ -2,7 +2,7 @@
 layout: talks
 title: Unexpected ways to distribute Python packages
 length: 20
-card: TBASupplyChain.png
+card: UnexpextedWaysToDistributePythonPackages.png
 keynote: false
 speakers:
 - name: Stian Kristoffersen
