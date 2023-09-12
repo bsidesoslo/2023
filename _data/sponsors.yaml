@@ -18,6 +18,9 @@ standard:
 - name: Kovert
   logo: kovert.png
   url: https://kovert.no/
+- name: Corelight
+  logo: corelight.png
+  url: https://corelight.com
 community: 
 - name: O3 Cyber
   logo: O3C.png
@@ -31,3 +34,6 @@ community:
 - name: Binary Security
   logo: BinarySec.png
   url: https://www.binarysecurity.no/
+- name: Gurusoft
+  logo: gurusoft.png
+  url: https://www.gurusoft.no
