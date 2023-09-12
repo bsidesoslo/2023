@@ -4,6 +4,7 @@ title: State of GraphQL Security 2023 – What analysing 1500+ endpoints has tol
 length: 20
 card: StateofGraphQLSecurity2023.png
 keynote: false
+scheduled: "13:10"
 speakers:
 - name: Gautier Ben Aïm
   image: GautierBenAim.png

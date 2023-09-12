@@ -2,6 +2,7 @@
 layout: talks
 title: "Red Team (infrastructure and payload development) automation"
 length: 45
+scheduled: "15:15"
 card: RedTeam_infrastructureAndPayloadDevelopmentAutomation.png
 keynote: false
 speakers:

@@ -4,6 +4,7 @@ title: Security at high speed - How Vipps secures their APIs
 length: 45
 card: Securityathighspeed.png
 keynote: false
+scheduled: "09:45"
 speakers:
 - name: Nora Tomas & Kenneth Wang Pedersen
   image: Nora_og_Kenneth.png

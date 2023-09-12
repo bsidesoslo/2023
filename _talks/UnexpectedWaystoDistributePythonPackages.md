@@ -4,6 +4,7 @@ title: Unexpected ways to distribute Python packages
 length: 20
 card: UnexpextedWaysToDistributePythonPackages.png
 keynote: false
+scheduled: "11:30"
 speakers:
 - name: Stian Kristoffersen
   image: StianKristoffersen.jpg

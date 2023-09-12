@@ -1,0 +1,18 @@
+{%- assign program = site.data.program | concat: site.talks | sort: "scheduled" -%} 
+<div class="row text-center">
+  <div class="col-xs-12 col-sm-10 col-sm-offset-4 text-muted">
+    <ul class="text-left">
+    {%- for item in program -%}
+    {%- if item.url -%}
+    <li><a href="{{ item.url }}">{{ item.scheduled }}: {{ item.title }}</a></br>
+                    {%- assign speakers = item.speakers | map: 'name' -%}
+                    <i>{{ speakers | join: ", " }}</i>
+            </li>
+    {% else -%}
+      <li>{{item.scheduled}}: {{item.title}}</li>
+    {% endif -%}
+    {%- endfor -%}
+    </ul>
+  </div>
+</div>
+

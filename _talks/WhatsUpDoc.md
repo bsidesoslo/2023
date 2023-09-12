@@ -3,6 +3,7 @@ layout: talks
 title: What's up, Doc? Using documentation to build better OT security knowledge graphs
 length: 20
 card: WhatsUpDoc.png
+scheduled: "14:55"
 keynote: false
 speakers:
 - name: Ian Fox

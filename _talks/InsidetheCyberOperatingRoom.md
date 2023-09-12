@@ -4,6 +4,7 @@ title: "Inside the Cyber Operating Room: Delving into Medical Device Digital For
 length: 45
 card: InsidetheCyberOperatingRoom.png
 keynote: false
+scheduled: "13:55"
 speakers:
 - name: Veronica Schmitt
   image: VeronicaSchmitt.jpg

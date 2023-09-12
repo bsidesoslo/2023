@@ -1,0 +1,14 @@
+- title: Registration and breakfast.
+  scheduled: "08:30"
+- title: Welcome and practical information.
+  scheduled: "08:55"
+- title: 10 minute break.
+  scheduled: "10:30"
+- title: Lunch.
+  scheduled: "11:50"
+- title: 15 minute break.
+  scheduled: "14:40"
+- title: CTF Prizes, thank you and closing remarks.
+  scheduled: "16:45"
+- title: Dinner and party.
+  scheduled: "17:00"

@@ -3,6 +3,7 @@ layout: talks
 title: Keynote
 length: 45
 card: Keynote.png
+scheduled: "09:00"
 keynote: true
 speakers:
 - name: Steffen Thorkildsen

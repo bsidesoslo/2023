@@ -4,6 +4,7 @@ title: "Unleashing AI and Large Language Models in Offensive Security: A New Era
 length: 45
 card: UnleashingAIandLargeLanguageModelsinOffensiveSecurity.png
 keynote: false
+scheduled: "16:00"
 speakers:
 - name: Martin Ingesen
   image: MartinIngesen.jpg
