@@ -832,6 +832,11 @@ section#conference div.row{
         width: 100vw;
     }
 }
+@media (min-width: 768px){
+    #splash #container {
+        padding-top: 2em;
+    }
+}
 #splash p.lead-in  {
     margin-bottom: 25px;
     text-transform: uppercase;
