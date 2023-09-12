@@ -2,8 +2,10 @@
   scheduled: "08:30"
 - title: Welcome and practical information.
   scheduled: "08:55"
-- title: 10 minute break.
+- title: 15 minute break.
   scheduled: "10:30"
+- title: TBD.
+  scheduled: "10:45"
 - title: Lunch.
   scheduled: "11:50"
 - title: 15 minute break.
