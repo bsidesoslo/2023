@@ -28,3 +28,6 @@ community:
 - name: PwC
   logo: pwc.png
   url: https://www.pwc.no/
+- name: Binary Security
+  logo: BinarySec.png
+  url: https://www.binarysecurity.no/
