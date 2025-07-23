@@ -5,6 +5,7 @@ length: 20
 card: SecuringAIagainstadversarialattacksusingcausality.png
 keynote: false
 scheduled: "12:50"
+video: https://www.youtube.com/watch?v=vIj16_3AfhU
 speakers:
 - name: Preben Monteiro Ness
   image: PrebenMonteiroNess.jpg

@@ -5,6 +5,7 @@ length: 20
 card: WhatsUpDoc.png
 scheduled: "14:55"
 keynote: false
+video: https://www.youtube.com/watch?v=mrc267tCwIU
 speakers:
 - name: Ian Fox
   image: IanFox.jpg

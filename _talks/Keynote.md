@@ -4,6 +4,7 @@ title: Keynote
 length: 45
 card: Keynote.png
 scheduled: "09:00"
+video: https://www.youtube.com/watch?v=FOJV5bA0XBM
 keynote: true
 speakers:
 - name: Steffen Thorkildsen

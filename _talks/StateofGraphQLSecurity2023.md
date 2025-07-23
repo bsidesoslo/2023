@@ -5,6 +5,7 @@ length: 20
 card: StateofGraphQLSecurity2023.png
 keynote: false
 scheduled: "13:10"
+video: https://www.youtube.com/watch?v=cTnNfl87kPo
 speakers:
 - name: Gautier Ben Aïm
   image: GautierBenAim.png

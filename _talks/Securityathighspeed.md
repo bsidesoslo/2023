@@ -5,6 +5,7 @@ length: 45
 card: Securityathighspeed.png
 keynote: false
 scheduled: "09:45"
+video: https://www.youtube.com/watch?v=8cRuF-CF0cY
 speakers:
 - name: Nora Tomas & Kenneth Wang Pedersen
   image: Nora_og_Kenneth.png

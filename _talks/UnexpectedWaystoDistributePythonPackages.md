@@ -5,6 +5,7 @@ length: 20
 card: UnexpextedWaysToDistributePythonPackages.png
 keynote: false
 scheduled: "11:30"
+video: https://www.youtube.com/watch?v=tnKS9fDJU2I
 speakers:
 - name: Stian Kristoffersen
   image: StianKristoffsersen2.jpg

@@ -5,6 +5,7 @@ length: 45
 card: OIDCsecurityweaknessesandpitfalls.png
 scheduled: "10:45"
 keynote: false
+video: https://www.youtube.com/watch?v=74P7ORAuzw0
 speakers:
 - name: Tobias Ahnoff
   image: TobiasAhnoff.jpg

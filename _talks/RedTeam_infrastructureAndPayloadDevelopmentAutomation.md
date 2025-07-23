@@ -5,6 +5,7 @@ length: 45
 scheduled: "15:15"
 card: RedTeam_infrastructureAndPayloadDevelopmentAutomation.png
 keynote: false
+video: https://www.youtube.com/watch?v=cogGZKqjWRk
 speakers:
 - name: Andre Lima
   image: AndreLima.jpg

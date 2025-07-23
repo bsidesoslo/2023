@@ -5,6 +5,7 @@ length: 45
 card: InsidetheCyberOperatingRoom.png
 keynote: false
 scheduled: "13:55"
+video: https://www.youtube.com/watch?v=SvtBpS6YOYE
 speakers:
 - name: Veronica Schmitt
   image: VeronicaSchmitt.jpg

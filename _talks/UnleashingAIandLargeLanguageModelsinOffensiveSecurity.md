@@ -5,6 +5,7 @@ length: 45
 card: UnleashingAIandLargeLanguageModelsinOffensiveSecurity.png
 keynote: false
 scheduled: "16:00"
+video: https://www.youtube.com/watch?v=_0kQk86i46M
 speakers:
 - name: Martin Ingesen
   image: MartinIngesen.jpg
